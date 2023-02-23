@@ -4713,11 +4713,11 @@ export const data = [
         unplayableCause: null,
       },
       contextualSynopsis: {
-        text: "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second Netflix stand-up special.",
+        text: "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second stand-up special.",
         evidenceKey: "web_synopsis|80225917_INFORMATIVE|en|_IFD_",
       },
       currentContextualSynopsis: {
-        text: "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second Netflix stand-up special.",
+        text: "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second stand-up special.",
         evidenceKey: "web_synopsis|80225917_INFORMATIVE|en|_IFD_",
       },
       maturity: {
@@ -4760,9 +4760,9 @@ export const data = [
       watched: false,
       hasAudioDescription: true,
       synopsis:
-        "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second Netflix stand-up special.",
+        "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second stand-up special.",
       synopsisRegular:
-        "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second Netflix stand-up special.",
+        "Ricky Gervais gives his take on the rules of comedy, spoiling his cats and how super actual nature is in his second stand-up special.",
       hasSensitiveMetaData: false,
       delivery: {
         has3D: false,

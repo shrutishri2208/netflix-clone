@@ -49,7 +49,7 @@ const ProfileList = () => {
             <p className="ml-4">Help Center</p>
           </div>
           <div className="text-xs my-2 text-center border-t pt-2">
-            <p className=""> Sign Out of Netflix</p>
+            <p className=""> Sign Out</p>
           </div>
         </div>
       )}
