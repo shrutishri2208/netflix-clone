@@ -23,7 +23,7 @@ const Footer = () => {
           Service Code
         </div>
         <div className="text-xs text-gray-500 my-4">
-          1997-2023 Watcher, Inc.
+          1997-2023 Netflix, Inc.
         </div>
       </div>
     </section>

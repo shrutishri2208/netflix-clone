@@ -42,8 +42,8 @@ const Container = () => {
     casual: "Casual Viewing",
     while: "Watch for a While",
     new: "New Releases",
-    popular: "Popular on Watcher",
-    onlyOn: "Only on Watcher",
+    popular: "Popular on Netflix",
+    onlyOn: "Only on Netflix",
   };
 
   return (
